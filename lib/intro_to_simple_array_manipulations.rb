@@ -1,4 +1,13 @@
+def
+musicians = ["Hendrix", "John Mayer", "Prince"]
+next_musician = "BB King"
+musicians.push (next_musician)
+end
 
+def
+entertainers = ["Lafayette", "Sookie", "Bill"]
+entertainers.pop
+end 
 
 def using_push(array)
   entertainers = ["Lafayette", "Sookie", "Bill"]
