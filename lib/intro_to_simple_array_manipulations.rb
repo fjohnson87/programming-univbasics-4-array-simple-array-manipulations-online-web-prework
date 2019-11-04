@@ -24,6 +24,10 @@ def using_pop
   entertainers.pop
 end
 
+def pop_with_args
+  musicians = ["Hendrix", "John Mayer", "Prince"]
+  musicians.pop
+
 def shift_with_args
   entertainers = ["Lafayette", "Sookie", "Bill"]
   entertainers.shift
